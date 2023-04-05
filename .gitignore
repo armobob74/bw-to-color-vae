@@ -4,3 +4,4 @@ __pycache__
 secrets.py
 saved_models
 venv
+encoded_data
